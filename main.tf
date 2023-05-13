@@ -67,3 +67,10 @@ module "aks" {
   ]
 
 }
+
+resource "local_file" "kubeconfig" {
+  depends_on   = [module.aks]
+  filename     = "./kubeconfig"
+  content      = module.aks.config
+  
+}
