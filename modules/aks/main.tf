@@ -3,7 +3,7 @@ data "azurerm_kubernetes_service_versions" "current" {
   location = var.location
   include_preview = false  
 }
-
+ 
 
 resource "azurerm_kubernetes_cluster" "aks-cluster" {
   name                  = "techtutorialwithpiyush-aks-cluster"
