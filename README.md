@@ -101,3 +101,10 @@ Code="Forbidden" Message="Caller is not authorized to perform
 #### Resolution:-
 User should have keyvault admin role even if the user has owner role.
 
+## Video reference
+
+Checkout the below video for complete hands-on demo of this project
+
+[![AKS cluster using terraform](https://i9.ytimg.com/vi_webp/I-MbnfNcikk/mqdefault.webp?v=63443239&sqp=CLDF_KIG&rs=AOn4CLBbz5aB_LJqhd52eP3tgjtoMfu51A)](https://youtu.be/I-MbnfNcikk)
+
+
