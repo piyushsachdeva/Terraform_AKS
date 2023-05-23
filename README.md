@@ -105,6 +105,6 @@ User should have keyvault admin role even if the user has owner role.
 
 Checkout the below video for complete hands-on demo of this project
 
-[![AKS cluster using terraform](https://youtu.be/I-MbnfNcikk)
+<video src='https://youtu.be/I-MbnfNcikk' width=180/>
 
 
